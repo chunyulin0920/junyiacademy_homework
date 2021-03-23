@@ -1,4 +1,8 @@
-﻿<%@ Page Language="VB" ContentType="text/html" ResponseEncoding="utf-8" %>
+執行結果請參考 
+http://13.70.18.52/TEST01.aspx
+
+
+<%@ Page Language="VB" ContentType="text/html" ResponseEncoding="utf-8" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!-- saved from url=(0052)http://aymkdn.github.io/ExcelPlus/demo/example2.html -->
 <%
